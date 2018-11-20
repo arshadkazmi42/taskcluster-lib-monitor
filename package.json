@@ -27,7 +27,7 @@
     "taskcluster-client": "^10.0.0"
   },
   "devDependencies": {
-    "aws-sdk-mock": "^1.7.0",
+    "aws-sdk-mock": "^4.0.0",
     "capture-console": "^1.0.1",
     "eslint-config-taskcluster": "^3.0.0",
     "mocha": "4.0.1",
